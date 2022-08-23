@@ -21,7 +21,7 @@
   <img align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
   
-  ## <img height="50" width="50" align="left" src="https://emojis.slackmojis.com/emojis/images/1625678813/46948/sonic-waiting.gif?1625678813"/> Contacts 📱
+  ## <img height="50" width="50" align="left" src="https://emojis.slackmojis.com/emojis/images/1620836617/38248/rupee.gif?1620836617"/> Contacts 📱
   
   
 <div align="center">
