@@ -19,10 +19,10 @@
   <img align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
   
-  <img align="center" height="100em" width="1500" src="https://freepikpsd.com/file/2019/10/red-lightsaber-png-2-Transparent-Images.png"/>
+  <!-- <img align="center" height="100em" width="1500" src="https://freepikpsd.com/file/2019/10/red-lightsaber-png-2-Transparent-Images.png"/> -->
   
   ## <img height="50" width="50" align="left" src="https://emojis.slackmojis.com/emojis/images/1620836617/38248/rupee.gif?1620836617"/> Contacts 📱
-  
+  ###
 <div align="left">
 
   <a href="https://www.linkedin.com/in/bruno-mesquita-78744a201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
